@@ -1,1 +1,1 @@
-# auto_jnb
+# doc_notebooks
