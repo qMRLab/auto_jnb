@@ -1,3 +1,3 @@
-FROM qmrlab/octjn:v2.0.14
+FROM qmrlab/octjn:latest
 ADD . $HOME/work
 WORKDIR $HOME/work
